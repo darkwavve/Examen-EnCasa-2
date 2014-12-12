@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418396176 source:/home/darkwavve/Documentos/Progra3/Examen-EnCasa#2/main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
